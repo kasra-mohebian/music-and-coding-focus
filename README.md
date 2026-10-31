@@ -1,8 +1,8 @@
 # Does Music Help You Code?
 
-![Conceptual illustration: evidence review separates perceived focus from measured performance.](docs/media/project-overview.jpg)
+![Technical concept illustration of source appraisal and the distinction between reported focus and measured performance; not a study result.](docs/media/project-overview-technical.png)
 
-*Conceptual illustration: evidence review separates perceived focus from measured performance.*
+*Technical concept illustration of source appraisal and the distinction between reported focus and measured performance; not a study result.*
 
 [![Evidence checks](https://github.com/kasra-mohebian/music-and-coding-focus/actions/workflows/checks.yml/badge.svg)](https://github.com/kasra-mohebian/music-and-coding-focus/actions/workflows/checks.yml)
 
