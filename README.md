@@ -36,6 +36,10 @@ The answer depends on the task and the outcome being measured. Developer surveys
 | [Presentation outline](docs/presentation.md) | Three slides explaining the question, evidence and conclusion |
 | [References](REFERENCES.md) | Named scientific authors, corrected titles, DOIs and primary access links |
 
+![Original evidence map: source access levels, separate outcomes and related-study boundaries.](docs/media/evidence-map.svg)
+
+*Original evidence map: source access levels, separate outcomes and related-study boundaries.*
+
 ## How the review handles evidence
 
 The 18 references are a reconstructed course bibliography, not 18 independent coding experiments. The source audit checked primary methods/results sections for 12 records; four were checked through abstracts or an abstract plus author slides; two have verified bibliographic identities only. The [appraisals](docs/study-appraisals.md#access-still-needed-for-a-full-text-appraisal) list the six sources needing deeper access.
