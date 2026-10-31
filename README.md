@@ -1,8 +1,8 @@
 # Does Music Help You Code?
 
-![Technical concept illustration of source appraisal and the distinction between reported focus and measured performance; not a study result.](docs/media/project-overview-technical.png)
+![Access levels in the 18-reference evidence register, not measured effects on coding performance.](docs/media/project-preview.png)
 
-*Technical concept illustration of source appraisal and the distinction between reported focus and measured performance; not a study result.*
+*Access levels in the 18-reference evidence register, not measured effects on coding performance.*
 
 [![Evidence checks](https://github.com/kasra-mohebian/music-and-coding-focus/actions/workflows/checks.yml/badge.svg)](https://github.com/kasra-mohebian/music-and-coding-focus/actions/workflows/checks.yml)
 

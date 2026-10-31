@@ -6,6 +6,6 @@ Attribute Kasra Mohebian (`kasra-mohebian`), link this repository and the licens
 
 The evidence-checking script, GitHub workflow configuration and `.gitignore` are separately licensed under [MIT](LICENSE-code). Bibliographic facts are cited for identification; no exclusive copyright in those facts is claimed. The CC BY grant covers original descriptions and, where held, database rights in the curated register. Referenced scientific authors and source links remain as scholarly attribution. Their inclusion does not imply endorsement.
 
-## Conceptual illustration
+## Project preview
 
-`docs/media/project-overview-technical.png` was generated with OpenAI’s image-generation tool in Codex. It is explanatory artwork, not experimental evidence. To the extent rights exist and are held in this image, it is made available under CC BY 4.0. No university or publisher figure is reproduced.
+`docs/media/project-preview.png` is an original layout of the evidence register's access counts, made with Matplotlib and AI assistance. Original explanatory material follows CC BY 4.0, to the extent rights are held. Third-party source rights are unchanged.
